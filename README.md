@@ -13,7 +13,7 @@ Meu nome é <b> Daniel Sobrinho</b>.
 Resido em Guariba/SP-BR.<br />
 <a href="https://www.linkedin.com/in/Daniel Sobrinho/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+</a><br />
 Técnico em Desenvolvimento de Sistemas, formado pela Etec Bento Carlos,
 E estou me capacitando pela @Danki code para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
@@ -64,4 +64,5 @@ E estou me capacitando pela @Danki code para me tornar um <b>Desenvolvedor Full-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dansobrinho" alt="Daniel Sobrinho" /> </p>
 
 ⭐️ Baseado em (https://github.com/Strongreen).
+
 
