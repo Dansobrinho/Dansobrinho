@@ -11,8 +11,7 @@ Meu nome é <b> Daniel Sobrinho</b>.
 </a><br />
 <p align="left" >
 Resido em Guariba/SP-BR.<br />
-
-Técnico em Desenvolvimento de Sistemas, formado pela Etec Bento Carlos,
+Técnico em Desenvolvimento de Sistemas, formado pela Etec Bento Carlos.<br />
 E estou me capacitando pela @Danki code para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 <a href="https://www.linkedin.com/in/Daniel Sobrinho/" target="_blank">
