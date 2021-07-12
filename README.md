@@ -11,12 +11,13 @@ Meu nome é <b> Daniel Sobrinho</b>.
 </a><br />
 <p align="left" >
 Resido em Guariba/SP-BR.<br />
-<a href="https://www.linkedin.com/in/Daniel Sobrinho/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a><br />
+
 Técnico em Desenvolvimento de Sistemas, formado pela Etec Bento Carlos,
 E estou me capacitando pela @Danki code para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
+<a href="https://www.linkedin.com/in/Daniel Sobrinho/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a><br />
 
 <hr />
 
@@ -64,5 +65,4 @@ E estou me capacitando pela @Danki code para me tornar um <b>Desenvolvedor Full-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dansobrinho" alt="Daniel Sobrinho" /> </p>
 
 ⭐️ Baseado em (https://github.com/Strongreen).
-
 
